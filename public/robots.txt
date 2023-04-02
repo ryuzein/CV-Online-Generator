@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://cvmaker-os.web.app/sitemap.xml
